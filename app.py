@@ -1,4 +1,4 @@
-"""Transportation Incident Operations — fictional portfolio demonstration.
+"""Transportation Incident Operations
 
 st.divider()
 st.caption(
